@@ -2,7 +2,10 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Naam deeltaak
+# Back To Static - Schets je ontwikkeling
+
+## Mijn ontwikkeling over een jaar
+![IMG_8087](https://user-images.githubusercontent.com/34651215/205862591-22e550c1-8e87-4f5e-82b3-a198fa4a51bb.jpg)
 
 
 ## Licentie
