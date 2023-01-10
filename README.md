@@ -11,8 +11,7 @@ Verder heb ik als doel om volgend jaar een junior front end developer te worden 
 
 ![IMG_8181](https://user-images.githubusercontent.com/34651215/207616151-8d3b967b-ab4f-4062-80a0-70df9ee521d8.jpg)
 
-![IMG_8087](https://user-images.githubusercontent.com/34651215/205862591-22e550c1-8e87-4f5e-82b3-a198fa4a51bb.jpg)
-
+![IMG_8736](https://user-images.githubusercontent.com/34651215/211547248-3fa3104c-a21e-4916-a22c-d942b72bca2a.jpg)
 
 ## Licentie
 
